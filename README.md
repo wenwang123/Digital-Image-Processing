@@ -8,4 +8,4 @@ SIED dataset is available at: [Baidu Yun (extracted code:4y4w)].
 GeoCorrection dataset is available at:
 
 ## Download the Kodak dataset
-Kodak dataset is available at:  https://github.com/MohamedBakrAli/Kodak-Lossless-True-Color-Image-Suit
+Kodak dataset is available at:  https://github.com/MohamedBakrAli/Kodak-Lossless-True-Color-Image-Suite
